@@ -1,0 +1,2 @@
+Untuk Labs berikut yang dilampirkan merupakan penugasan dari capaian bulanan ke dua. Labs yang dilampirkan meliput semua kursus dari
+Mathematics for Machine Learning dan Machine Learning by Andrew Ng Specializations.
